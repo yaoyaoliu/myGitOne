@@ -1,0 +1,5 @@
+hello
+this my first git
+sencond 
+three
+
