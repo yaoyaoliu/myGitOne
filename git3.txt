@@ -1,4 +1,4 @@
 dev
 one
-create new branch simple
+create new branch for dev
 
